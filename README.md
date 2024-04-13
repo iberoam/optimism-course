@@ -12,6 +12,12 @@ Proposal for an Extension Course about **Optimism, Governance and Retro Funding*
 5. Impact = Profit
 6. Incentives and Retro Funding
 
+### Syllabus
+
+Session 1: The blockchain technology and concepts: decentralization, transparency, traceability, privacy. Private and Public Blockchain
+Session 2: Layer 1, Layer 2 and Layer 3. Scaling Ethereum: Rollups, Plasma, Validium
+Session: 
+
 ### Progress:
 
 (i) YoutTube live scheduled for Friday April 12th 5pm (GMT-3) to communicate the course organization and talk about the Hacker House (https://github.com/iberoam/hacker-house) of the Blockchain Innovation Hub (https://github.com/iberoam/blockchain-innovation-hub)
