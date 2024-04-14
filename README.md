@@ -29,15 +29,15 @@ Session 2: Blockchain 4 layers: Execution, Cosensus, Data availability and Settl
 
 Session 3: Ethereum Improvement Proposal (EIP) and Ethereum Request for Comments (ERC). ERC tokens: ERC-20 and ERC721. Digital wallets: Metamask, Keplr and INTMAX.
 
-Session 4: Onchain Governance: Optimism example. Optimism bicameral governance: Token House and Citizen House. 
+Session 4: Onchain Governance: Optimism example. Delegation. Optimism bicameral governance: Token House and Citizen House.
 
-Session 5: Impact=Profit. Incentives and Retro Funding: Grants Council
+Session 5: Impact=Profit. Grants Council. Mision Request and Retro Funding. 
 
-Session 6: Mision Request and Retro Funding. Optimism governance participation.
+Session 6: Onchain voting. Snapshot. Optimism governance participation I
 
-Session 7: Onchain voting. Snapshot. Optimism governance participation.
+Session 7:Optimism governance participation II
 
-Session 8: Optimism governance participation.
+Session 8: Optimism governance participation III
 
 ### Progress:
 
