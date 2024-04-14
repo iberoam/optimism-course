@@ -23,9 +23,22 @@ Proposal for an Extension Course about **Optimism, Governance and Retro Funding*
 
 ### Syllabus
 
-Session 1: The blockchain technology and concepts: decentralization, transparency, traceability, privacy. Private and Public Blockchain
-Session 2: Layer 1, Layer 2 and Layer 3. Scaling Ethereum: Rollups, Plasma, Validium
-Session: 
+Session 1: The blockchain technology and concepts: decentralization, transparency, traceability, privacy. Private and Public Blockchains. 
+
+Session 2: Blockchain 4 layers: Execution, Cosensus, Data availability and Settlement. Monolithic and Modular Blockchains. Blockchains Layer 1, Layer 2 and Layer 3. Ethereum and scalability: Rollups, Plasma, Validium. Optimism Rollup Protocol.
+
+Session 3: Ethereum Improvement Proposal (EIP) and Ethereum Request for Comments (ERC). ERC tokens: ERC-20 and ERC721. Digital wallets: Metamask, Keplr and INTMAX.
+
+Session 4: Onchain Governance: Optimism example. Optimism bicameral governance: Token House and Citizen House. 
+
+Session 5: Impact=Profit. Incentives and Retro Funding: Grants Council
+
+Session 6: Mision Request and Retro Funding
+
+Session 7:
+
+Session 8:
+
 
 ### Progress:
 
