@@ -1,7 +1,7 @@
 # optimism-course
 ## Optimism Course at the Federal University of Rio de Janeiro
 
-Proposal for an Extension Course about **Optimism, Governance and Retro Funding** to be offered by the [Federal University of Rio de Janeiro](https://ufrj.br/) in partnertship with professors of the [Fluminense Federal University](https://www.uff.br/), [Rio de Janeiro Rural Federal University](https://portal.ufrrj.br/) and the recently created [Blockchain Innovation Hub](https://github.com/iberoam/blockchain-innovation-hub)
+Proposal for an Extension Course about **Optimism, Governance and Retro Funding** to be offered by the [Federal University of Rio de Janeiro](https://ufrj.br/) in partnertship with professors from the [Fluminense Federal University](https://www.uff.br/), [Rio de Janeiro Rural Federal University](https://portal.ufrrj.br/) and the recently created [Blockchain Innovation Hub](https://github.com/iberoam/blockchain-innovation-hub)
 
 ### Course topics
 
