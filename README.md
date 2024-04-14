@@ -33,12 +33,11 @@ Session 4: Onchain Governance: Optimism example. Optimism bicameral governance: 
 
 Session 5: Impact=Profit. Incentives and Retro Funding: Grants Council
 
-Session 6: Mision Request and Retro Funding
+Session 6: Mision Request and Retro Funding. Optimism governance participation.
 
-Session 7:
+Session 7: Onchain voting. Snapshot. Optimism governance participation.
 
-Session 8:
-
+Session 8: Optimism governance participation.
 
 ### Progress:
 
