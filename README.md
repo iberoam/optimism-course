@@ -23,7 +23,7 @@ Proposal for an Extension Course about **Optimism, Governance and Retro Funding*
 
 ### Syllabus
 
-Session 1: The blockchain technology and concepts: decentralization, transparency, traceability, privacy. Private and Public Blockchains. 
+Session 1: Distributed Ledger Technologies (DLT). The blockchain technology and concepts: decentralization, transparency, traceability, privacy. Private and Public Blockchains. 
 
 Session 2: Blockchain 4 layers: Execution, Cosensus, Data availability and Settlement. Monolithic and Modular Blockchains. Blockchains Layer 1, Layer 2 and Layer 3. Ethereum and scalability: Rollups, Plasma, Validium. Optimism Rollup Protocol.
 
