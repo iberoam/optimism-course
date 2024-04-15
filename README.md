@@ -62,7 +62,7 @@ https://app.charmverse.io/
 
 (ii) IberoAM tweet about the YouTube live: https://twitter.com/iberoam_xyz/status/1777481843928940602
 
-(iii) IberoAm You Tube direct link: https://www.youtube.com/watch?v=NfKPF1Rd0NU
+(iii) IberoAm YouTube direct link: https://www.youtube.com/watch?v=NfKPF1Rd0NU
 
 (iv) Optimism Course proposal submitted to the [Federal University of Rio de Janeiro](https://ufrj.br/en/) on April 12th
 
