@@ -32,7 +32,7 @@ Session 3: Ethereum and scalability: Rollups, Plasma, Validium. Optimism Rollup 
 
 Session 4: Onchain Governance: Optimism example. Delegation. Optimism bicameral governance: Token House and Citizen House.
 
-Session 5: Impact=Profit. Grants Council. Mision Request and Retro Funding. 
+Session 5: Impact=Profit. Collective values. Grants Council. Mision Request and Retro Funding. 
 
 Session 6: Onchain voting. Snapshot.
 
