@@ -1,7 +1,7 @@
 # optimism-course
 ## Optimism Course at the Federal University of Rio de Janeiro
 
-Proposal for an Extension Course about **Optimism, Governance and Retro Funding** to be offered by the [Federal University of Rio de Janeiro](https://ufrj.br/) in partnertship with professors from the [Fluminense Federal University](https://www.uff.br/), [Rio de Janeiro Rural Federal University](https://portal.ufrrj.br/) and the recently created [Blockchain Innovation Hub](https://github.com/iberoam/blockchain-innovation-hub)
+Proposal for an Extension Course about **Optimism, Governance and Retro Funding** `in Portuguese` to be offered by the [Federal University of Rio de Janeiro](https://ufrj.br/) in partnertship with professors from the [Fluminense Federal University](https://www.uff.br/), [Rio de Janeiro Rural Federal University](https://portal.ufrrj.br/) and the recently created [Blockchain Innovation Hub](https://github.com/iberoam/blockchain-innovation-hub)
 
 ### Course topics
 
@@ -34,15 +34,31 @@ Session 4: Onchain Governance: Optimism example. Delegation. Optimism bicameral 
 
 Session 5: Impact=Profit. Grants Council. Mision Request and Retro Funding. 
 
-Session 6: Onchain voting. Snapshot. Optimism governance participation I
+Session 6: Onchain voting. Snapshot.
 
-Session 7:Optimism governance participation II
+Session 7: Optimism governance participation I
 
-Session 8: Optimism governance participation III
+Session 8: Optimism governance participation II
+
+#### Relevant Links
+
+https://www.optimism.io/
+
+https://docs.optimism.io/
+
+https://gov.optimism.io/
+
+https://metamask.io/
+
+https://snapshot.org/
+
+https://app.charmverse.io/
+
+
 
 ### Progress:
 
-(i) YoutTube live scheduled for Friday April 12th 5pm (GMT-3) to communicate the course organization and talk about the Hacker House (https://github.com/iberoam/hacker-house) of the Blockchain Innovation Hub (https://github.com/iberoam/blockchain-innovation-hub)
+(i) YoutTube live scheduled for Friday April 12th 5pm (GMT-3) to communicate the course organization and talk about the [Hacker House](https://github.com/iberoam/hacker-house) of the [Blockchain Innovation Hub](https://github.com/iberoam/blockchain-innovation-hub)
 
 (ii) IberoAM tweet about the YouTube live: https://twitter.com/iberoam_xyz/status/1777481843928940602
 
