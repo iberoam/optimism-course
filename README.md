@@ -23,11 +23,12 @@ Proposal for an Extension Course about **Optimism, Governance and Retro Funding*
 
 ### Syllabus
 
-Session 1: Distributed Ledger Technologies (DLT). The blockchain technology and concepts: decentralization, transparency, traceability, privacy. Private and Public Blockchains. 
+Session 1: Digital wallets: Metamask, Keplr and Intmax.
+Distributed Ledger Technologies (DLT). The blockchain technology and concepts: decentralization, transparency, traceability, privacy.  
 
-Session 2: Blockchain 4 layers: Execution, Cosensus, Data availability and Settlement. Monolithic and Modular Blockchains. Blockchains Layer 1, Layer 2 and Layer 3. Ethereum and scalability: Rollups, Plasma, Validium. Optimism Rollup Protocol.
+Session 2: Private and Public Blockchains. Blockchain 4 layers: Execution, Cosensus, Data availability and Settlement. Monolithic and Modular Blockchains. Blockchains Layer 1, Layer 2 and Layer 3. 
 
-Session 3: Ethereum Improvement Proposal (EIP) and Ethereum Request for Comments (ERC). ERC tokens: ERC-20 and ERC721. Digital wallets: Metamask, Keplr and INTMAX.
+Session 3: Ethereum and scalability: Rollups, Plasma, Validium. Optimism Rollup Protocol. Ethereum Improvement Proposal (EIP) and Ethereum Request for Comments (ERC). ERC-20 and ERC721 tokens.
 
 Session 4: Onchain Governance: Optimism example. Delegation. Optimism bicameral governance: Token House and Citizen House.
 
