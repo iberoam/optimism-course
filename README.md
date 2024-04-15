@@ -28,7 +28,7 @@ Distributed Ledger Technologies (DLT). The blockchain technology and concepts: d
 
 Session 2: Private and Public Blockchains. Blockchain 4 layers: Execution, Consensus, Data availability and Settlement. Monolithic and Modular Blockchains. Blockchains Layer 1, Layer 2 and Layer 3. 
 
-Session 3: Ethereum and scalability: Rollups, Plasma, Validium. Optimism Rollup Protocol. Ethereum Improvement Proposal (EIP) and Ethereum Request for Comments (ERC). ERC-20 and ERC721 tokens.
+Session 3: Ethereum and scalability: Rollups, Plasma, Validium. Optimism Rollup Protocol. Ethereum Improvement Proposal (EIP) and Ethereum Request for Comments (ERC). ERC-20 and ERC-721 tokens.
 
 Session 4: Onchain Governance: Optimism example. Delegation. Optimism bicameral governance: Token House and Citizen House.
 
