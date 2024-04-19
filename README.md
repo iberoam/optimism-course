@@ -66,5 +66,7 @@ https://app.charmverse.io/
 
 (iv) Optimism Course proposal submitted to the [Federal University of Rio de Janeiro](https://ufrj.br/en/) on April 12th
 
+(v) Brazlian media (BlockTrends) started to promote the Optimism course to be offered by the Rio de Janeiro Federal University (UFRJ) in partnership with professors from UFF and UFRRJ: 
+https://blocktrends.com.br/universidades-ensinar-programacao-blockchain-rj/
 
 
