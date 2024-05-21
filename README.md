@@ -70,6 +70,10 @@ https://app.charmverse.io/
 https://blocktrends.com.br/universidades-ensinar-programacao-blockchain-rj/
 
 
-## Optimism course officially approved by the Federal University of Rio de Janeiro
+## Optimism course officially approved by the Rio de Janeiro Federal University
 
 https://portal.ufrj.br/Inscricao/extensao/acaoExtensao/acao?id=F32CACFF-8DF3-489E-857C-08601EF89005&cid=54501
+
+## Registration form for the Optimism course at UFRJ
+
+https://tinyurl.com/curso-optimism
