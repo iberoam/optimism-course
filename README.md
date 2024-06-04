@@ -98,15 +98,19 @@ https://app.charmverse.io/
 
 ### Progress:
 
-(i) YoutTube live scheduled for Friday April 12th 5pm (GMT-3) to communicate the course organization and talk about the [Hacker House](https://github.com/iberoam/hacker-house) of the [Blockchain Innovation Hub](https://github.com/iberoam/blockchain-innovation-hub)
+(i) YouTube live (at the [IberoAm YouTube channel](https://www.youtube.com/@iberoamerica6121)) to introduce organizers, professors and assistants, as well as course dynamics, scheduled for June 4th at 5:30pm:
 
-(ii) IberoAM tweet about the YouTube live: https://twitter.com/iberoam_xyz/status/1777481843928940602
+https://www.youtube.com/live/xkML4NLFMBQ
 
-(iii) IberoAm YouTube direct link: https://www.youtube.com/watch?v=NfKPF1Rd0NU
+(ii) YoutTube live scheduled for Friday April 12th 5pm (GMT-3) to communicate the course organization and talk about the [Hacker House](https://github.com/iberoam/hacker-house) of the [Blockchain Innovation Hub](https://github.com/iberoam/blockchain-innovation-hub)
 
-(iv) Optimism Course proposal submitted to the [Federal University of Rio de Janeiro](https://ufrj.br/en/) on April 12th
+(iii) IberoAM tweet about the YouTube live: https://twitter.com/iberoam_xyz/status/1777481843928940602
 
-(v) Brazilian media (BlockTrends) started to promote the Optimism course to be offered by the Rio de Janeiro Federal University (UFRJ) in partnership with professors from UFF and UFRRJ: 
+(iv) IberoAm YouTube direct link: https://www.youtube.com/watch?v=NfKPF1Rd0NU
+
+(v) Optimism Course proposal submitted to the [Federal University of Rio de Janeiro](https://ufrj.br/en/) on April 12th
+
+(vi) Brazilian media (BlockTrends) started to promote the Optimism course to be offered by the Rio de Janeiro Federal University (UFRJ) in partnership with professors from UFF and UFRRJ: 
 https://blocktrends.com.br/universidades-ensinar-programacao-blockchain-rj/
 
 
