@@ -40,14 +40,6 @@ Session 7: Optimism governance participation I
 
 Session 8: Optimism governance participation II
 
-
-
-
-
-
-
-
-
 ### Course starts
 Friday 7th June
 
@@ -63,13 +55,30 @@ Fridays from 5:30pm to 7pm
 ### Class days
 
 June 7th
+
 June 14th
+
 June 21th
+
 June 28th
+
 July, 5th
+
 July 12th
-August 9
+
+August 9th
+
 August 16th
+
+
+### Target audience
+University community (all universities) and non-university community (young people and adults)
+
+### Registration requirements
+be 18 years or older
+
+### Requirements for the certificate
+at least 75% attendance in a total of 8 classes
 
 #### Relevant Links
 
