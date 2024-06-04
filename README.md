@@ -40,6 +40,37 @@ Session 7: Optimism governance participation I
 
 Session 8: Optimism governance participation II
 
+
+
+
+
+
+
+
+
+### Course starts
+Friday 7th June
+
+### Total number of hours
+12
+
+### Total number of classes
+8
+
+### Class days and times
+Fridays from 5:30pm to 7pm
+
+### Class days
+
+June 7th
+June 14th
+June 21th
+June 28th
+July, 5th
+July 12th
+August 9
+August 16th
+
 #### Relevant Links
 
 https://www.optimism.io/
