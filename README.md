@@ -98,7 +98,7 @@ https://app.charmverse.io/
 
 (i) YouTube live (at the [IberoAm YouTube channel](https://www.youtube.com/@iberoamerica6121)) to introduce organizers, professors and assistants, as well as course dynamics, scheduled for June 4th at 5:30pm:
 
-https://www.youtube.com/live/xkML4NLFMBQ
+https://www.youtube.com/live/tgFQmVJM1pE
 
 (ii) YoutTube live scheduled for Friday April 12th 5pm (GMT-3) to communicate the course organization and talk about the [Hacker House](https://github.com/iberoam/hacker-house) of the [Blockchain Innovation Hub](https://github.com/iberoam/blockchain-innovation-hub)
 
