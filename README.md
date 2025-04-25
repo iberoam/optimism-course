@@ -109,9 +109,11 @@ https://tinyurl.com/curso-optimism
 
 ## Optimism course videos at IberoAm YouTube channel
 
-The introduction plus 8 course videos are available as a playlist here:
+### The introduction plus 8 course videos are available as a playlist here:
 
 https://www.youtube.com/playlist?list=PL5dr-3NL6H0dzamjtZrQUUNUzCi62VQJN
+
+### Individual lecture videos
 
 - Optimism Extension Course at the Federal University of Rio de Janeiro (UFRJ)
   
@@ -121,9 +123,31 @@ https://www.youtube.com/playlist?list=PL5dr-3NL6H0dzamjtZrQUUNUzCi62VQJN
   
   https://youtu.be/ca6QFXNJJ28?si=RAe5cGJVT8HMTmqz
 
--  Public and Private Blockchains. Four layers. Monolithic and Modular Blockchains. Blockchains Layer 1, 2 and 3.
+- Public and Private Blockchains. Four layers. Monolithic and Modular Blockchains. Blockchains Layer 1, 2 and 3.
 
   https://youtu.be/mBT8D9A5So0?si=WwtRPtPeOMfUsS-5
 
-- 
-  
+- EIP, ERC. ERC-20 and ERC-721 tokens
+
+  https://youtu.be/pvinGcu3Rek?si=yXv76xW6NNQpxMcV
+
+- On-chain governance, Delegation, Bi-cameral governance of Optimism network
+
+  https://youtu.be/1-GoeXfrARA?si=TgRhy9mvB1rUaZ5G
+
+- Impact=Profit, Collective values, Grants Council, Mision Request, Retroactive Funding
+
+  https://youtu.be/VFSyVj5Jj8U?si=BS76aPF3lcE6K46C
+
+- Snapshot. On-chain voting.
+
+  https://youtu.be/VPTj3kNIBPQ?si=wmtSBao28vwmTs7F
+
+- Optimism network governance (Special Guest: Brichis)
+
+  https://www.youtube.com/live/LsrkkftMRX0?si=VAJolzaIzwDc_sc2
+
+- Optimism network governance (Special Guest: Gonna)
+
+  https://www.youtube.com/live/-CXvs47Uc9o?si=iDE-N5FiMvx9FAiC
+    
