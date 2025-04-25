@@ -106,3 +106,24 @@ https://tinyurl.com/curso-optimism
 
 ## Rules
 - Check the [RULES_PT-BR.md](RULES_PT-BR.md) file for the rules of the course.
+
+## Optimism course videos at IberoAm YouTube channel
+
+The introduction plus 8 course videos are available as a playlist here:
+
+https://www.youtube.com/playlist?list=PL5dr-3NL6H0dzamjtZrQUUNUzCi62VQJN
+
+- Optimism Extension Course at the Federal University of Rio de Janeiro (UFRJ)
+  
+  https://www.youtube.com/watch?v=tgFQmVJM1pE
+
+- Digital wallets, DLTs and Blockchain
+  
+  https://youtu.be/ca6QFXNJJ28?si=RAe5cGJVT8HMTmqz
+
+-  Public and Private Blockchains. Four layers. Monolithic and Modular Blockchains. Blockchains Layer 1, 2 and 3.
+
+  https://youtu.be/mBT8D9A5So0?si=WwtRPtPeOMfUsS-5
+
+- 
+  
