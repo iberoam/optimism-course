@@ -82,6 +82,58 @@ Distributed Ledger Technologies (DLT). The blockchain technology and concepts: d
 - [Snapshot](https://snapshot.org/)
 - [Charmverse](https://app.charmverse.io/)
 
+### Course Participation 
+
+1. Over 300 hundred registrations from different regions of Brazil, 1 from Mozambique and 1 from Cape Verde
+2. 41 (13.6%) of registered participants completed the course, attending at least 75% of the entire course (at least 6 classes)
+
+### Registered participants that completed the course
+
+The 41 registered participant that completed the course wil receiva a certificate from the Federal Unievrsity of Rio de Janeiro:
+
+1. Alan Silva dos Santos
+2. Alex Silva Santos
+3. Alexandre de Freitas Subkand
+4. Ana Claudia da Cunha
+5. André de Souza Carneiro
+6. Anny Caroline de Sousa Correia
+7. Arestides Durante Neto
+8. Arthur Fialho De Araújo Souza
+9. Benjamin da Gama Bauer
+10. Bruno Véras Schulz
+11. Caroline Silva de Oliveira
+12. Daniel Silva de Freitas
+13. Débora das Chagas Barbosa
+14. Diovani Luiz Merlo
+15. Fabrinni da Silva Rodrigues
+16. Flavus Pereira Regis
+17. Igor de Oliveira Amaro
+18. Issac d'Cesares de Carvalho Lima
+19. Ítallo Winícios Ferreira Cardoso
+20. João Pedro Evangelista de Carvalho
+21. José Aldo Teixeira da Silva
+22. José Renato Ferreira da Silva Filho
+23. Julia Campos Rocha
+24. Klayvem Guimarães Leal da Silva
+25. Luciano Alves Dos Santos Marques
+26. Marcon Zanin
+27. Maria Angela Fulgencio da Silva dos Santos
+28. Maria Carolina Clemente
+29. Mariana Fernandes Cabral
+30. Matheus do Ó Santos Tiburcio
+31. Nikolas Silva Cury Boaventura
+32. Patrícia Alves da Silva
+33. Paula Marques
+34. Renan Ferreira de Lima
+35. Rita de Cássia Novaes Barretto
+36. Rodrigo Garcia Zaroni
+37. Ronan Dutra Mendonça
+38. Sarah Ellen de Oliveira Borrete
+39. Sonia Mara Batista
+40. Thiago Sarmento Magalhães
+41. Tiago César Cunha da Costa
+
+
 ### Progress:
 (i) YouTube live (at the [IberoAm YouTube channel](https://www.youtube.com/@iberoamerica6121)) to introduce organizers, professors and assistants, as well as course dynamics, scheduled for June 4th at 5:30pm:
 
