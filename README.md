@@ -82,12 +82,12 @@ Distributed Ledger Technologies (DLT). The blockchain technology and concepts: d
 - [Snapshot](https://snapshot.org/)
 - [Charmverse](https://app.charmverse.io/)
 
-### Course Participation 
+## Course Participation 
 
 1. Over 300 hundred registrations from different regions of Brazil, 1 from Mozambique and 1 from Cape Verde
 2. 41 (13.6%) of registered participants completed the course, attending at least 75% of the entire course (at least 6 classes)
 
-### Registered participants that completed the course
+## Registered participants that completed the course
 
 The 41 registered participant that completed the course wil receiva a certificate from the Federal Unievrsity of Rio de Janeiro:
 
@@ -134,7 +134,7 @@ The 41 registered participant that completed the course wil receiva a certificat
 41. Tiago César Cunha da Costa
 
 
-### Progress:
+## Progress:
 (i) YouTube live (at the [IberoAm YouTube channel](https://www.youtube.com/@iberoamerica6121)) to introduce organizers, professors and assistants, as well as course dynamics, scheduled for June 4th at 5:30pm:
 
 https://www.youtube.com/live/tgFQmVJM1pE
