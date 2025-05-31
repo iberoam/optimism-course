@@ -84,8 +84,20 @@ Distributed Ledger Technologies (DLT). The blockchain technology and concepts: d
 
 ## Course Participation 
 
-1. Over 300 hundred registrations from different regions of Brazil, 1 from Mozambique and 1 from Cape Verde
+1. There were a total of 305 registrations from different regions of Brazil, 1 from Mozambique and 1 from Cape Verde
 2. 41 (13.6%) of registered participants completed the course, attending at least 75% of the entire course (at least 6 classes)
+
+## Registration details
+
+### Registrations by University
+
+From the 3 universities participating in the course, we had 36/305 [11.8%] (UFRJ), 42/305 [13.7%] (UFRRJ) and 2/305 [0.6%] (UFF)
+
+<img width="450" src="https://github.com/iberoam/optimism-course/blob/main/registrations_by_university.png">
+
+### Registrations by Brazilian state
+<img width="450" src="https://github.com/iberoam/optimism-course/blob/main/registrations_by_state.png">
+
 
 ## Registered participants that completed the course
 
