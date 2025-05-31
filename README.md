@@ -101,7 +101,7 @@ From the 3 universities participating in the course, we had 36/305 [11.8%] (UFRJ
 
 ## Registered participants that completed the course
 
-The 41 registered participant that completed the course wil receiva a certificate from the Federal Unievrsity of Rio de Janeiro:
+The 41 [13.44%] registered participants that completed the course wil receiva a certificate from the Federal Unievrsity of Rio de Janeiro:
 
 1. Alan Silva dos Santos
 2. Alex Silva Santos
