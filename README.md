@@ -145,6 +145,42 @@ The 41 [13.44%] registered participants that completed the course wil receiva a 
 40. Thiago Sarmento Magalhães
 41. Tiago César Cunha da Costa
 
+## Evaluation/feedback of each class by registered students
+
+Most feedback provided by the registered students were "very good" (muito bom) and good (bom):
+
+### Class 1 feedback
+
+https://github.com/iberoam/optimism-course/blob/main/Curso_Optimism_07_06_2024_Class_1.pdf
+
+### Class 2 feedback
+
+https://github.com/iberoam/optimism-course/blob/main/Curso_Optimism_14_06_2024_Class_2.pdf
+
+### Class 3 feedback
+
+https://github.com/iberoam/optimism-course/blob/main/Curso_Optimism_21_06_2024_Class_3.pdf
+
+### Class 4 feedback
+
+https://github.com/iberoam/optimism-course/blob/main/Curso_Optimism_28_06_2024_Class_4.pdf
+
+### Class 5 feedback
+
+https://github.com/iberoam/optimism-course/blob/main/Curso_Optimism_5_07_2024_Class_5.pdf
+
+### Class 6 feedback
+
+https://github.com/iberoam/optimism-course/blob/main/Curso_Optimism_12_07_2024_Class_6.pdf
+
+### Class 7 feedback
+
+https://github.com/iberoam/optimism-course/blob/main/Curso_Optimism%2009_08_2024_Class_7.pdf
+
+### Class 8 feedback
+
+https://github.com/iberoam/optimism-course/blob/main/Curso_Optimism_16_08_2024_Class_8.pdf
+
 
 ## Progress:
 (i) YouTube live (at the [IberoAm YouTube channel](https://www.youtube.com/@iberoamerica6121)) to introduce organizers, professors and assistants, as well as course dynamics, scheduled for June 4th at 5:30pm:
